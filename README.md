@@ -19,3 +19,8 @@ Funny projects : )
 - [Notebook](https://github.com/Grindewald1900/FunnyProjects/blob/master/Facial%20Expression%20recognition/Project/Facial_Expression_Training.ipynb)  
 - [Project Link](https://github.com/Grindewald1900/FunnyProjects/tree/master/Facial%20Expression%20recognition/Project)
 - [Cousera](https://www.coursera.org/projects/facial-expression-recognition-keras)
+
+#### Demos
+<img src="https://github.com/Grindewald1900/FunnyProjects/blob/master/Image/Facial/1.png?raw=true" width = 500>
+<img src="https://github.com/Grindewald1900/FunnyProjects/blob/master/Image/Facial/2.png?raw=true" width=500>
+<img src="https://github.com/Grindewald1900/FunnyProjects/blob/master/Image/Facial/3.png?raw=true" width=500>
